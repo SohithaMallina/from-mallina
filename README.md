@@ -27,3 +27,10 @@ This table shows that 4 restaurants/food vendors.
 | Sohi Restaurant       | Offers authentic Italian cuisine with a cozy ambiance, perfect for a romantic dinner. | 456 Pasta Street, Roma Town |
 | Nani Restaurant        | Renowned for its fresh sushi and traditional Japanese dishes, with a modern twist. | 789 Sushi Avenue, Japantown |
 | Sri Kanya     | Famous for its bold, spicy flavors and a wide variety of dishes from across Asia. | 101 Spice Road, Flavor City |
+
+------------
+
+### Jokes or Humours
+> Don't trouble the trouble, if you trouble the trouble, trouble will troubles you..! -*Brahmanandam*
+>
+> I tried cooking once, and the smoke alarm cheered me on. It was the only time my cooking was celebrated with applause! -*Brahmanandam*
