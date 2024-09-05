@@ -9,3 +9,8 @@ I love cricket for its thrilling strategy and skill, and for the way it brings p
 1. Virat Kohli
 2. M.S. Dhoni
 3. Rohit Sharma
+
+List of Places that you can Play:
+* Bengaluru
+* Hyderabad
+* Vizag
