@@ -37,7 +37,7 @@ This table shows that 4 restaurants/food vendors.
 
 -------------
 
-### SQL
+### SQL Full Join
 This SQL snippet performs a FULL OUTER JOIN between two tables, table1 and table2, based on a common column (column_name).<br> The FULL OUTER JOIN returns all rows from both tables, including unmatched rows, with NULLs in places where there is no match.<br> The WHERE clause is used to filter the results based on a specified condition. <br> This ensures that the final result includes rows that meet the condition from the joined tables.
 
 ```
