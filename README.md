@@ -16,3 +16,14 @@ List of Places that you can Play:
 * Vizag
 
 [My favourite Dish](MyDish.md)
+
+----------
+
+### Best Restaurants to try
+This table shows that 4 restaurants/food vendors.
+| Restaurant Name    | Recommendation                                    | Location        |
+|--------------------|----------------------------------------------------|-----------------|
+| Pavan Restaurant    | Known for its fresh, locally sourced ingredients and innovative vegetarian dishes. | 123 Veggie Lane, Green City |
+| Sohi Restaurant       | Offers authentic Italian cuisine with a cozy ambiance, perfect for a romantic dinner. | 456 Pasta Street, Roma Town |
+| Nani Restaurant        | Renowned for its fresh sushi and traditional Japanese dishes, with a modern twist. | 789 Sushi Avenue, Japantown |
+| Sri Kanya     | Famous for its bold, spicy flavors and a wide variety of dishes from across Asia. | 101 Spice Road, Flavor City |
